@@ -1,0 +1,12 @@
+
+<?php
+$a = 10;
+$b = 20;
+$sum = $a + $b;
+echo "Sum: ", $sum;
+
+$c = 10.1;
+$d = 20.2;
+$dsum = $c + $d;
+echo "\n\nSum: ", $dsum;
+?>
